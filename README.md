@@ -1,2 +1,2 @@
 # C++ Program to Find LCM:
-## LCM = Least 
+## LCM = Least Common
