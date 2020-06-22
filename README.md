@@ -1,2 +1,1 @@
-# C++ Program 
-program to Find LCM
+# C++ Program to 
