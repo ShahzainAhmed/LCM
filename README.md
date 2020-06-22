@@ -1,2 +1,2 @@
-# LCM
+# C++ 
 program to Find LCM
